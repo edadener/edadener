@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eda<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A Frontend Developer from Turkey</h3>
+<h3 align="center">A Junior Frontend Developer from Turkey</h3>
 
 
 <br>
