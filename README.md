@@ -19,10 +19,10 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=edadener&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=edadener&show_icons=true&theme=react">
 </details>
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadener&layout=compact&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadener&layout=compact&theme=react">
 </details>
