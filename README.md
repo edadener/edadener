@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eda<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Frontend Developer from Turkey</h3>
-🌱 I’m currently learning
+<h4 align="center">🌱 I’m currently learning  </h4>
 
 <br>
 
@@ -19,10 +19,10 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=edadener&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=edadener&show_icons=true&theme=github_dark">
 </details>
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadener&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadener&layout=compact&theme=github_dark">
 </details>
